@@ -1,7 +1,7 @@
 
 
-<h1 align="center">Hi <img src="https://avatars.githubusercontent.com/u/114009565?v=4" width="30px">, I'm Oybek Abduraimov</h1>
-<h3 align="center">I'm a passionate Full Stack Developer from Uzbekistan.</h3>
+<h1 align="center">Hello, we are the cipher-edu team</h1>
+<h3 align="center">We are Full Stack Developers from Uzbekistan.</h3>
 
 ## 🚀 Languages and Tools:
 
