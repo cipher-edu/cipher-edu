@@ -1,6 +1,6 @@
-<a href="#"><img width="100%" height="auto" src="<a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> " height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Oybek Abduraimov</h1>
+
+<h1 align="center">Hi <img src="https://avatars.githubusercontent.com/u/114009565?v=4" width="30px">, I'm Oybek Abduraimov</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from Uzbekistan.</h3>
 
 ## 🚀 Languages and Tools:
