@@ -4,7 +4,8 @@
     <img src="https://github-readme-stats.vercel.app/api?username=cipher-edu&show_icons=true&theme=material-palenight&count_private=true&hide_border=true" />
     
   </a>  
+   <img src="https://user-images.githubusercontent.com/114009565/224543175-608bac27-a909-4073-920c-d15ee3d0d4f9.gif" />
 </div>
 
 
- <img src="https://user-images.githubusercontent.com/114009565/224543175-608bac27-a909-4073-920c-d15ee3d0d4f9.gif" />
+
